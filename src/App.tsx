@@ -105,7 +105,6 @@ function App() {
                     <fieldset>
                         <Checkbox
                             type="checkbox"
-                            name="privacy"
                             id="privacy"
                             text="I may be contacted about this feedback."
                             link="Privacy Policy"
@@ -116,7 +115,6 @@ function App() {
                     <fieldset>
                         <Checkbox
                             type="checkbox"
-                            name="group"
                             id="group"
                             text="I’d like to help improve by joining the"
                             link="Research Group"
